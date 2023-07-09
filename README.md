@@ -4,6 +4,7 @@
 ## Description
     
 This application is desgined to generate a logo composed with the options of having the shape be a circle, square, or triangle. The shape can have up to 3 characters printed on the shape, as well as the ability to set the color of the shape and text. Using Node.JS and Inquirere.JS, the user will able generate their own logo within their own personal terminal.
+
 ![SVG](https://github.com/TSalamatin/SVG-Generator/assets/128180862/04dccc21-c35f-49cb-a783-b27499f2d6a6)
 
 ## Table of Contents
